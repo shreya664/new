@@ -1,24 +1,27 @@
 body {
 
-	background: #f8f8ff;
-	color: black;
+	background: #E156E1;
+	color: #E1CC56;
 	font-size: 15px;
 	
 }
+#grad {
+    background-image: linear-gradient(to right, #e10bb3 , rgb(255, 0, 111));
+  }
 
 #basliq {
-background: #8dbc8f;
-color: #2f4f4f;
+background: #E156E1;
+color: #E1CC56;
 text-align: center;
 margin: auto;
-border: 1px solid grey;
+border: 1px solid rgb(22, 3, 3);
 padding: 10 px;
 font-size: 20px;
 }
 
 .title {
-background: #8dbc8f;
-color: white;
+background: #E156E1;
+color: #E1CC56;
 margin: auto;
 text-align: center;
 padding: 5px;
@@ -110,7 +113,7 @@ padding: 5px;
 
 
 .table-result {
-	border: 1px dotted green;
+	border: 1px dotted rgb(14, 229, 240);
 	margin: 10px;
 	min-height: 20px;
 	
